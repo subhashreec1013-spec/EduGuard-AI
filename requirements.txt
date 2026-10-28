@@ -1,7 +1,8 @@
 
-gradio
+gradio==6.31.0
 pandas
 numpy
 matplotlib
-scikit-learn
+scikit-learn==1.6.1
 joblib
+
